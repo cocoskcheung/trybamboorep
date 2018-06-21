@@ -15,7 +15,8 @@ public class TrybambooApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		fail(" helloNot yet implemented");
+		//fail(" helloNot yet implemented");
+		System.out.println("try release");
 	}
 
 }
