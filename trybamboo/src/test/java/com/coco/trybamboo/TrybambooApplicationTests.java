@@ -16,7 +16,7 @@ public class TrybambooApplicationTests {
 	@Test
 	public void contextLoads() {
 		//fail(" helloNot yet implemented");
-		System.out.println("HH-2, 3 commit try release");
+		System.out.println("HH-2,4 commit try release");
 	}
 
 }
