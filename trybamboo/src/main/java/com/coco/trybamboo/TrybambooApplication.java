@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TrybambooApplication {
 
 	public static void main(String[] args) {
+		 System.out.println("HH-5: JUNIT TEST");
 		SpringApplication.run(TrybambooApplication.class, args);
 	}
 }
