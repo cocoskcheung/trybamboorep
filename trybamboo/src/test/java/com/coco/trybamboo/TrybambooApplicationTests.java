@@ -11,7 +11,8 @@ public class TrybambooApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("HH-4:unit test2");
+		System.out.println("HH-4:unit test3");
+		System.out.println("HH-4:finished to junit test,can able to pull request");
 	}
 
 }
