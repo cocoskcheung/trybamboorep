@@ -15,8 +15,9 @@ public class TrybambooApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		//fail(" helloNot yet implemented");
-		System.out.println("HH-2,release 2");
+
+		System.out.println("HH-4:unit test3");
+		System.out.println("HH-4:finished to junit test,can able to pull request"
 	}
 
 }
