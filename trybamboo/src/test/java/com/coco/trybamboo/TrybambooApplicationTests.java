@@ -11,6 +11,7 @@ public class TrybambooApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("HH4 unit test");
 	}
 
 }
