@@ -18,6 +18,7 @@ public class TrybambooApplicationTests {
 
 		System.out.println("HH-4:unit test3");
 		System.out.println("HH-4:finished to junit test,can able to pull request");
+		System.out.println("HH-7:finished to junit test,can able to SIT TEST");
 	}
 
 }
